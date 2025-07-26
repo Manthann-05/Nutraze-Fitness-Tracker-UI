@@ -2,6 +2,9 @@
 
 Nutraze is a modern and responsive **fitness tracker UI** built for web. Designed to help users track their workouts, progress, and wellness goals.
 
+🌐 **Live Website:** [https://nutraze.framer.website](https://nutraze.framer.website/)
+
+
 ## 🔧 Tech Stack
 - 🎨 [Figma](https://www.figma.com/) – UI/UX Design
 - 🧩 [Framer](https://www.framer.com/) – No-code Frontend Development
@@ -16,7 +19,7 @@ Nutraze is a modern and responsive **fitness tracker UI** built for web. Designe
 🚧 Backend integration not included
 
 ## 📸 Preview
-![Nutraze Preview](link-to-screenshot-if-you-have)
+![Nutraze Preview](https://github.com/Manthann-05/Nutraze-Fitness-Tracker-UI/blob/main/Nutraze.png)
 
 ---
 
